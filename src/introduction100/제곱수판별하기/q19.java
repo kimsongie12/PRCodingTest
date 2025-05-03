@@ -1,4 +1,4 @@
-package introduction100.문자반복출력하기;
+package introduction100.제곱수판별하기;
 // 시간 복잡도 O(1)
 // Math.sqrt() : 재곱근 구하는 메서드
 public class q19 {
